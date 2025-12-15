@@ -1,0 +1,13 @@
+# Hugo 生成的文件
+/public/
+/resources/
+/.hugo_build.lock
+
+# Windows 临时文件
+Thumbs.db
+*.tmp
+*.bak
+
+# 编辑器配置
+.vscode/
+.idea/
