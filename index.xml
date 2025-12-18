@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>我的个人博客</title>
+    <link>https://utopia-prog.github.io/Utopia/</link>
+    <description>Recent content on 我的个人博客</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 15 Jan 2024 20:00:00 +0800</lastBuildDate>
+    <atom:link href="https://utopia-prog.github.io/Utopia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇博客文章</title>
+      <link>https://utopia-prog.github.io/Utopia/posts/my-first-blog/</link>
+      <pubDate>Mon, 15 Jan 2024 20:00:00 +0800</pubDate>
+      <guid>https://utopia-prog.github.io/Utopia/posts/my-first-blog/</guid>
+      <description>&lt;h2 id=&#34;欢迎来到我的博客&#34;&gt;欢迎来到我的博客！&lt;/h2&gt;
+&lt;p&gt;今天成功在 Windows 上搭建了基于 Hugo + Vercel 的个人博客。&lt;/p&gt;
+&lt;h3 id=&#34;windows-系统搭建步骤&#34;&gt;Windows 系统搭建步骤&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;安装环境&lt;/strong&gt; - 使用 Chocolatey 安装 Git 和 Hugo&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;创建项目&lt;/strong&gt; - 在 PowerShell 中初始化&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;配置主题&lt;/strong&gt; - 选择合适的主题&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;编写内容&lt;/strong&gt; - 用 Markdown 写作&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;部署上线&lt;/strong&gt; - 推送到 Vercel&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;常用命令&#34;&gt;常用命令&lt;/h3&gt;</description>
+    </item>
+  </channel>
+</rss>
